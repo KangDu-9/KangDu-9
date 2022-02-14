@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KangDu-9
-- 👀 I’m interested in Male
+- 👀 I’m interested in Pot culture
 - 🌱 I’m currently learning Data Science related courses
 - 💞️ I’m looking to collaborate on New projects
 - 📫 How to reach me Git-hub in-site message
